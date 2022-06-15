@@ -1,0 +1,16 @@
+{
+  "name": "terminal-chat",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start-server": "nodemon index.js",
+    "start-client": "nodemon client.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "underscore": "^1.13.4"
+  }
+}
